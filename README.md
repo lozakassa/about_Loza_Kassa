@@ -6,9 +6,7 @@ I'm a data science student with a strong background in statistics and analytics.
 - Data Cleaning, Visualization, Modeling
 - Regression, Classification
 
-## 📁 Projects
-- **project 1** – explanation
-- **Project 2** – explanation
+
 
 ## 📫 Contact
 - 📧 lozabkassa@gmail.com
