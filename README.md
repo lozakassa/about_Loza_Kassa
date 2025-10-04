@@ -1,4 +1,4 @@
-# Hi, I'm Loza_Kassa
+# Hi, I'm Loza Kassa
 I'm a data science student with a strong background in statistics and analytics. I love using R and Python to dig into data, build models, and tell compelling stories.
 
 ## 🧰 Skills
