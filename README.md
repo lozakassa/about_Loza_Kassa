@@ -24,5 +24,5 @@ Welcome to my corner of GitHub! I am a **Data Analyst & Data Scientist** who rec
 ## 📫 Let's Connect
 
 * 📧 **Email:** [lozabkassa@gmail.com](mailto:lozabkassa@gmail.com)
-* 🌐 **LinkedIn:** [Your LinkedIn Profile Link Here]
+* 🌐 **LinkedIn:** linkedin.com/in/lozakassa
 * 🐙 **GitHub:** You're looking right at it! Feel free to explore my repositories.
