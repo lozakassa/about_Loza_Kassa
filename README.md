@@ -1,6 +1,6 @@
 # Hi, I'm Loza Kassa 👋
 
-Welcome to my corner of GitHub! I am a **Data Analyst & Data Scientist** who recently graduated with a B.S. in Data Science from South Dakota State University, backed by a strong foundation in statistics and analytics. I am passionate about transforming raw, messy data into clean insights, building predictive models, and telling compelling stories with data visualization.
+Welcome to my corner of GitHub! I am a **Data Analyst & Data Scientist** who recently graduated with a B.S. in Data Science with a minor of Mathematics from South Dakota State University, backed by a strong foundation in statistics and analytics. I am passionate about transforming raw, messy data into clean insights, building predictive models, and telling compelling stories with data visualization.
 
 ---
 
